@@ -28,8 +28,11 @@ My goal is simple:
 I'm an **AI & Machine Learning Engineer in the making** with hands-on experience in:
 
 ✔ Building real-world AI products
+
 ✔ End-to-End ML Systems (data → model → deployment)
+
 ✔ Full-stack development (MERN, Flask, APIs)
+
 ✔ Tableau dashboards for operational intelligence
 
 I love converting complex ideas into scalable products that genuinely help people.
