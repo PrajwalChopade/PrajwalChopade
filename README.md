@@ -1,17 +1,29 @@
+<!--Hero / Banner-->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=27&duration=2800&pause=2000&color=2EC4B6&center=true&vCenter=true&width=900&repeat=true&lines=Exploring+GenAI+|+Building+AI+Systems+|+Full-Stack+Developer" 
+    alt="typing svg"
+/>
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-0ea5a6?style=flat-square" alt="location"/>
+  <!-- <img src="https://img.shields.io/badge/Role-AI%20%26%20Full-Stack%20Engineer-7c3aed?style=flat-square" alt="role"/> -->
+  <img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20RAG%20%7C%20LLMs-ef4444?style=flat-square" alt="focus"/>
+  <!-- <img src="https://img.shields.io/badge/Available-To%20Hire-yes-success?style=flat-square" alt="hire"/> -->
+</p>
+
+
 ## 🌐 Hey, I'm Prajwal!
 
-Exploring GenAI • Building AI Systems • Full-Stack Developer
+**Exploring GenAI • Building AI Systems • Full-Stack Developer**
 
 I love turning ideas into intelligent, scalable products using GenAI, ML, and strong engineering fundamentals.
-Right now, I’m exploring how LLMs, vector databases, embeddings, RAG, multi-agent systems, and cloud-hosted models can power the next generation of applications.
+Right now, I’m exploring how LLMs, vector databases, embeddings, RAG, multi-agent systems can power the next generation of applications.
 
-My goal is simple:
-
-  👉 Build AI products used by thousands.
-  
-  👉 Master GenAI end-to-end — from model to deployment.
-
-📍 Pune, India
 
 ---
 
@@ -22,23 +34,6 @@ My goal is simple:
 * 🧠 **LeetCode:** [leetcode.com/u/Prajwal_Chopade06](https://leetcode.com/u/Prajwal_Chopade06)
 
 ---
-
-# 🚀 **About Me**
-
-I'm an **AI & Machine Learning Engineer in the making** with hands-on experience in:
-
-✔ Building real-world AI products
-
-✔ End-to-End ML Systems (data → model → deployment)
-
-✔ Full-stack development (MERN, Flask, APIs)
-
-✔ Tableau dashboards for operational intelligence
-
-I love converting complex ideas into scalable products that genuinely help people.
-
----
-
 
 
 # 🔥 **Tech Stack**
@@ -67,16 +62,7 @@ I love converting complex ideas into scalable products that genuinely help peopl
 
 `MongoDB` • `PostgreSQL`
 
----
-
-
-# 📊 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrajwalChopade\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalChopade\&layout=compact\&theme=tokyonight)
 
 ---
-
 # 🙌 Thanks for visiting my profile!
 
