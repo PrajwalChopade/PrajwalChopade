@@ -78,11 +78,5 @@ I love converting complex ideas into scalable products that genuinely help peopl
 
 ---
 
-# ⭐ **Fun Fact**
-
-I love building **LLM-powered products**, **Full Stack Solutions**, and **Intelligent Dashboards** that make life easier for developers and users.
-
----
-
 # 🙌 Thanks for visiting my profile!
 
