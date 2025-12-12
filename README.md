@@ -1,7 +1,7 @@
 <!--Hero / Banner-->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?size=27&duration=2800&pause=2000&color=2EC4B6&center=true&vCenter=true&width=900&repeat=true&lines=Exploring+GenAI+|+Building+AI+Systems+|+Full-Stack+Developer" 
+    src="https://readme-typing-svg.herokuapp.com?size=25&duration=2800&pause=2000&color=2EC4B6&center=true&vCenter=true&width=900&repeat=true&lines=Exploring+GenAI+|+Building+AI+Systems+|+Full-Stack+Developer" 
     alt="typing svg"
 />
 </p>
