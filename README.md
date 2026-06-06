@@ -25,7 +25,7 @@ I love turning ideas into intelligent, scalable products using GenAI, ML, and st
 Right now, I’m exploring how LLMs, vector databases, embeddings, RAG, multi-agent systems can power the next generation of applications.
 
 
----
+<!--
 
 ## 🔗 **Connect With Me**
 
@@ -33,7 +33,7 @@ Right now, I’m exploring how LLMs, vector databases, embeddings, RAG, multi-ag
 * 💼 **LinkedIn:** [linkedin.com/in/prajwal-chopade-aab34b18a](https://www.linkedin.com/in/prajwal-chopade-aab34b18a)
 * 🧠 **LeetCode:** [leetcode.com/u/Prajwal_Chopade06](https://leetcode.com/u/Prajwal_Chopade06)
 
----
+-->
 
 
 # 🔥 **Tech Stack**
@@ -63,6 +63,7 @@ Right now, I’m exploring how LLMs, vector databases, embeddings, RAG, multi-ag
 `MongoDB` • `PostgreSQL`
 
 
----
+<!--
 # 🙌 Thanks for visiting my profile!
+-->
 
